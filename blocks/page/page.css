@@ -1,0 +1,14 @@
+.page {
+  box-sizing: border-box;
+  background-color: #2A2C2F;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  max-width: 1280px;
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* эти свойства для сглаживания не наследуются, а по селектору всех тегов (*) указывать их не по БЭМ, что делать?
+  кажому классу их прописывать очень тупо, так что как я понял здесь наверное можно немного отклониться от БЭМ */
+}
