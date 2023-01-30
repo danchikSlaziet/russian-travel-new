@@ -16,4 +16,4 @@
 
 **Ссылка на GithubPages**
 
-https://danchikslaziet.github.io/russian-travel/
+https://danchikslaziet.github.io/russian-travel-new/
