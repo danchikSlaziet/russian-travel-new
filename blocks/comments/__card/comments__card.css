@@ -1,0 +1,7 @@
+@media screen and (max-width: 1023.98px) {
+  .comments__card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

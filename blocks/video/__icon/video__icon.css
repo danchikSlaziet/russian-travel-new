@@ -1,0 +1,28 @@
+.video__icon {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 94px;
+  width: 41px;
+  height: 41px;
+  transition: transform .5s ease-in-out, fill .25s ease-in-out;
+}
+
+.video__item:hover .video__icon {
+  transform: translateX(100%) scale(1.5);
+}
+
+.video__icon:hover {
+  fill: #626466;
+}
+
+@media screen and (max-width: 1279.98px) {
+  .video__icon {
+    margin-bottom: 54px;
+  }
+}
+
+@media screen and (max-width: 1023.98px) {
+  .video__icon {
+    margin-bottom: 36px;
+  }
+}
